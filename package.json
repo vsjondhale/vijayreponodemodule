@@ -1,0 +1,16 @@
+{
+  "name": "sggames",
+  "version": "1.0.1",
+  "description": "This is Node Js Training",
+  "main": "index.js",
+  "scripts": {
+    "start": "nnode hello.js"
+  },
+  "author": "Vijay",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "jasmine-core": "2.8.0",
+    "underscore": "1.8.0"
+  }
+}
